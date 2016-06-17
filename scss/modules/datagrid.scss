@@ -90,6 +90,10 @@
             height: $inputHeight;
             display: none;
         }
+        select.editable-input {
+            position: relative;
+        }
+
         .editable-input {
             position: absolute;
             top: 0px;
